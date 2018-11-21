@@ -56,3 +56,4 @@ For example, the following is equivalent to "make cts":
 Or, if you know the path you want, you can do:
 
     % ./ninja.sh out/host/linux-x86/bin/adb
+# platform_build_kati
